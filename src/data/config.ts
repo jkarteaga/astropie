@@ -2,7 +2,7 @@
 export const siteLang = "en-US";
 export const siteCurrency = "USD";
 export const siteDomain = "astropie.com";
-export const siteName = "AstroPie";
+export const siteName = "Amagoia";
 export const siteSlogan = "The best pies in the galaxy!";
 export const themeColor = "#FF0000";
 
@@ -12,8 +12,8 @@ export const phone = {
 };
 
 export const email = {
-	href: "mailto:info@astropie.com",
-	label: "info@astropie.com",
+	href: "mailto:jonkoldoarteaga@pm.me",
+	label: "jonkoldoarteaga@pm.me",
 };
 
 export const address = {
